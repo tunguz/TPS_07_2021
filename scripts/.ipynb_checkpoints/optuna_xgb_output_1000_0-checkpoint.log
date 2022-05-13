@@ -1,0 +1,1240 @@
+A new study created in RDB with name: jul_2021_test_1000_0
+Start optimization.
+start listen on 192.168.1.101:53811
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 0.142235970888701 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.625336781718746, 'alpha': 0.0012169919681506713, 'colsample_bytree': 0.8721456928815612, 'subsample': 0.5360605313146687, 'learning_rate': 0.037128057374587055, 'max_depth': 20, 'min_child_weight': 85, 'eval_metric': 'rmse'}. Best is trial 0 with value: 0.142235970888701.
+start listen on 192.168.1.101:44301
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 0.1257052660066404 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.2651020497582555, 'alpha': 1.8698992843059778, 'colsample_bytree': 0.6196989872114009, 'subsample': 0.7177658109064919, 'learning_rate': 0.0057619633939836315, 'max_depth': 15, 'min_child_weight': 3, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:39305
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 2 finished with value: 0.19075808907284073 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0076451432135480986, 'alpha': 0.7555052127721936, 'colsample_bytree': 0.5023813892333214, 'subsample': 0.8357396887099562, 'learning_rate': 0.0034932403906140883, 'max_depth': 3, 'min_child_weight': 218, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:49869
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 3 finished with value: 0.2124020242845712 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.01116915103780461, 'alpha': 0.012064694455964043, 'colsample_bytree': 0.9082727622053801, 'subsample': 0.40224178932593035, 'learning_rate': 0.032157022993512224, 'max_depth': 20, 'min_child_weight': 267, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:43285
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 4 finished with value: 0.1405476350018581 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0037969351943650488, 'alpha': 0.12797580972943887, 'colsample_bytree': 0.8085219045774066, 'subsample': 0.9384788979653093, 'learning_rate': 0.0031868209241122446, 'max_depth': 11, 'min_child_weight': 88, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:44611
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 5 finished with value: 0.1336515710174307 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.027263976653391933, 'alpha': 0.8440031457544157, 'colsample_bytree': 0.601205545070025, 'subsample': 0.7327290356675975, 'learning_rate': 0.0033836492188382646, 'max_depth': 13, 'min_child_weight': 30, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:52425
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 6 finished with value: 0.18429843317667735 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0014452204812749685, 'alpha': 0.006585065983690965, 'colsample_bytree': 0.31966672135525737, 'subsample': 0.5592035576176122, 'learning_rate': 0.013310184924528227, 'max_depth': 5, 'min_child_weight': 154, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:38615
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 7 finished with value: 0.15210554810456495 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.25114016383742854, 'alpha': 0.008629044004904413, 'colsample_bytree': 0.7489845547146674, 'subsample': 0.7342620240493445, 'learning_rate': 0.0019124190864837863, 'max_depth': 17, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:57267
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 8 finished with value: 0.1848836462848871 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.008740142684237884, 'alpha': 2.2144504188026426, 'colsample_bytree': 0.9355987450683914, 'subsample': 0.8027661333135327, 'learning_rate': 0.0018503821153354296, 'max_depth': 13, 'min_child_weight': 291, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:60167
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 9 finished with value: 0.14829430445063224 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.09867882268525793, 'alpha': 3.342779859086467, 'colsample_bytree': 0.586342792352837, 'subsample': 0.6053552343820554, 'learning_rate': 0.05034392055538906, 'max_depth': 5, 'min_child_weight': 117, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:34095
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 10 finished with value: 0.1611475144511591 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.199108416385286, 'alpha': 9.17192026754029, 'colsample_bytree': 0.369719874152797, 'subsample': 0.9398788001423299, 'learning_rate': 0.010676477524434099, 'max_depth': 15, 'min_child_weight': 176, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1257052660066404.
+start listen on 192.168.1.101:45371
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 11 finished with value: 0.12466431689405696 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.06555017494448369, 'alpha': 0.33670999165705046, 'colsample_bytree': 0.6683746422355437, 'subsample': 0.661247964115611, 'learning_rate': 0.005525627436285887, 'max_depth': 13, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:50611
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 12 finished with value: 0.13458345600487945 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.5094924322045813, 'alpha': 0.14675443619114048, 'colsample_bytree': 0.6825016966462961, 'subsample': 0.6491180131318921, 'learning_rate': 0.006349742523801088, 'max_depth': 7, 'min_child_weight': 42, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:40711
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 13 finished with value: 0.12682856922550872 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.728128362759821, 'alpha': 0.4009939742944034, 'colsample_bytree': 0.47317297987906803, 'subsample': 0.4812473578054372, 'learning_rate': 0.01560934276401879, 'max_depth': 15, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:41767
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 14 finished with value: 0.24131064867370047 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.061997806939527646, 'alpha': 0.06450758302501479, 'colsample_bytree': 0.6787947235364038, 'subsample': 0.6665858906947142, 'learning_rate': 0.0010256803192117384, 'max_depth': 9, 'min_child_weight': 62, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:34497
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 15 finished with value: 0.14805970415405612 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.5233195652615245, 'alpha': 8.84078702283353, 'colsample_bytree': 0.5266584141324471, 'subsample': 0.8144115272372292, 'learning_rate': 0.006132870882368334, 'max_depth': 13, 'min_child_weight': 119, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:46931
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 16 finished with value: 0.12663980868763386 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.1344537664535164, 'alpha': 0.3369014859884997, 'colsample_bytree': 0.754564404831153, 'subsample': 0.7374705090937747, 'learning_rate': 0.025052313712254075, 'max_depth': 15, 'min_child_weight': 40, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:59839
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 17 finished with value: 0.18005404257617835 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.04302378794853997, 'alpha': 0.038118011489837955, 'colsample_bytree': 0.41908358980926763, 'subsample': 0.613802597649126, 'learning_rate': 0.08053040021860015, 'max_depth': 7, 'min_child_weight': 202, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:59877
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 18 finished with value: 0.13888827713240254 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.2161521374575258, 'alpha': 1.7392904415030155, 'colsample_bytree': 0.6149564673081709, 'subsample': 0.8790513085455033, 'learning_rate': 0.005345574919717458, 'max_depth': 17, 'min_child_weight': 70, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:48267
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 19 finished with value: 0.14586568283112053 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.600452616955, 'alpha': 0.3095285971728883, 'colsample_bytree': 0.9922040225833602, 'subsample': 0.6926921938897318, 'learning_rate': 0.008013715156106532, 'max_depth': 9, 'min_child_weight': 116, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:40881
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 20 finished with value: 0.13714892100128118 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.473586709745772, 'alpha': 0.02973006861694143, 'colsample_bytree': 0.7381783114939039, 'subsample': 0.482450239061595, 'learning_rate': 0.019757741039356583, 'max_depth': 3, 'min_child_weight': 35, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:40871
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 21 finished with value: 0.12472903029684207 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.3448480830230534, 'alpha': 0.2854904614106585, 'colsample_bytree': 0.7759518078649225, 'subsample': 0.7760485006667395, 'learning_rate': 0.021279912568543672, 'max_depth': 15, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:48635
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 22 finished with value: 0.12503175175615436 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.20809027127878443, 'alpha': 0.9376160373760767, 'colsample_bytree': 0.8224836357048653, 'subsample': 0.7859059563065772, 'learning_rate': 0.014053673586290984, 'max_depth': 15, 'min_child_weight': 2, 'eval_metric': 'rmse'}. Best is trial 11 with value: 0.12466431689405696.
+start listen on 192.168.1.101:46205
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 23 finished with value: 0.12410830842228636 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.16575307447810375, 'alpha': 0.7109362991906705, 'colsample_bytree': 0.8572201784671376, 'subsample': 0.7742761648459182, 'learning_rate': 0.017897448596757615, 'max_depth': 15, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:42699
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 24 finished with value: 0.13073341897141927 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.02299881636910941, 'alpha': 0.23680330583493178, 'colsample_bytree': 0.8299132128981307, 'subsample': 0.883539251295834, 'learning_rate': 0.052123662545512955, 'max_depth': 13, 'min_child_weight': 58, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:52535
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 25 finished with value: 0.12574194570502117 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.5691250131660662, 'alpha': 0.07602868194718897, 'colsample_bytree': 0.7147252086989656, 'subsample': 0.7755713595856008, 'learning_rate': 0.021459863929634972, 'max_depth': 11, 'min_child_weight': 24, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:55061
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 26 finished with value: 0.13936242891485373 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.11913745839101599, 'alpha': 0.6079693799780158, 'colsample_bytree': 0.7799255412359909, 'subsample': 0.9973200473003447, 'learning_rate': 0.008969044250738557, 'max_depth': 15, 'min_child_weight': 71, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:47379
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 27 finished with value: 0.14111770137344168 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.6977404836409933, 'alpha': 0.18497783391803765, 'colsample_bytree': 0.9411260703107973, 'subsample': 0.8464389459647512, 'learning_rate': 0.03587047115057312, 'max_depth': 15, 'min_child_weight': 100, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:48671
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 28 finished with value: 0.12600273224311492 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.12601149436413475, 'alpha': 3.3802600677264962, 'colsample_bytree': 0.8635182614148066, 'subsample': 0.6421783013985684, 'learning_rate': 0.01058084043737424, 'max_depth': 13, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:55671
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 29 finished with value: 0.13361429226814278 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.05612794376269043, 'alpha': 0.001700140080336699, 'colsample_bytree': 0.8552699763224183, 'subsample': 0.5599815168601259, 'learning_rate': 0.025746728098557926, 'max_depth': 15, 'min_child_weight': 52, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:40283
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 30 finished with value: 0.136814717227711 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.3152696439164689, 'alpha': 0.046828623522620044, 'colsample_bytree': 0.9994547640126145, 'subsample': 0.7619081432316672, 'learning_rate': 0.09904586568530459, 'max_depth': 20, 'min_child_weight': 87, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:48087
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 31 finished with value: 0.12542385906990985 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.18785761395469555, 'alpha': 1.0211955921277973, 'colsample_bytree': 0.7970760105194986, 'subsample': 0.7770826066022788, 'learning_rate': 0.016816318813799216, 'max_depth': 15, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:33709
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 32 finished with value: 0.1255482312549995 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.9024570430661597, 'alpha': 0.5350756382644908, 'colsample_bytree': 0.8834174812143237, 'subsample': 0.6925118046821258, 'learning_rate': 0.013858086570835506, 'max_depth': 15, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:50511
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 33 finished with value: 0.13331506008147745 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.2251799093581037, 'alpha': 1.3351052769858087, 'colsample_bytree': 0.6727800772723308, 'subsample': 0.871697504889697, 'learning_rate': 0.004637189632731132, 'max_depth': 15, 'min_child_weight': 47, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:49033
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 34 finished with value: 0.128177557869827 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.026388510516837403, 'alpha': 4.184756913163179, 'colsample_bytree': 0.8348129695338676, 'subsample': 0.8014614262084144, 'learning_rate': 0.04999130520494749, 'max_depth': 3, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:54185
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 35 finished with value: 0.1717336042650671 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.0137759512754396, 'alpha': 0.5662578823489568, 'colsample_bytree': 0.9021182377680439, 'subsample': 0.694812675242796, 'learning_rate': 0.029717350201423777, 'max_depth': 20, 'min_child_weight': 228, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:52905
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 36 finished with value: 0.1268010880446869 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.09185072799565445, 'alpha': 0.1185426770861473, 'colsample_bytree': 0.7838372456115918, 'subsample': 0.9177247814626905, 'learning_rate': 0.011731861687116775, 'max_depth': 11, 'min_child_weight': 31, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:59525
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 37 finished with value: 0.12422211287671385 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.016209327441711645, 'alpha': 1.0433003845639226, 'colsample_bytree': 0.7013967963071877, 'subsample': 0.8313709186435007, 'learning_rate': 0.008097730547215472, 'max_depth': 15, 'min_child_weight': 3, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:38811
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 38 finished with value: 0.14044895489902826 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.004173082623198723, 'alpha': 0.21867050957208597, 'colsample_bytree': 0.5621759698341259, 'subsample': 0.8383966256266089, 'learning_rate': 0.0046750762726052554, 'max_depth': 17, 'min_child_weight': 72, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:41481
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 39 finished with value: 0.15620383568226606 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.01660073178182699, 'alpha': 1.7355704142052506, 'colsample_bytree': 0.6343104263844448, 'subsample': 0.7513519751605497, 'learning_rate': 0.0074005383070867275, 'max_depth': 5, 'min_child_weight': 140, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:35851
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 40 finished with value: 0.1448302133100007 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0016371374805168944, 'alpha': 0.46146450931168753, 'colsample_bytree': 0.7258338459062461, 'subsample': 0.7280611064106497, 'learning_rate': 0.017919389616586703, 'max_depth': 13, 'min_child_weight': 103, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:43007
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 41 finished with value: 0.1335096490099419 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.35759470428973145, 'alpha': 0.8841657237798249, 'colsample_bytree': 0.6907670806578088, 'subsample': 0.8158454629644273, 'learning_rate': 0.002660018883519138, 'max_depth': 15, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:43379
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 42 finished with value: 0.12479887722035411 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.04341417500975723, 'alpha': 1.2702982359500892, 'colsample_bytree': 0.7728783746243723, 'subsample': 0.7119344484055894, 'learning_rate': 0.013068750299582106, 'max_depth': 15, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:53907
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 43 finished with value: 0.12930373209336982 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.01378923860219282, 'alpha': 3.0651444431487875, 'colsample_bytree': 0.6505825690288382, 'subsample': 0.6622504420918596, 'learning_rate': 0.007770779371095871, 'max_depth': 15, 'min_child_weight': 35, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:57221
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 44 finished with value: 0.1316651355934072 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0048991806717371385, 'alpha': 5.556814245894369, 'colsample_bytree': 0.7633597736471125, 'subsample': 0.7167121489662986, 'learning_rate': 0.0037939849549425285, 'max_depth': 15, 'min_child_weight': 17, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:60145
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 45 finished with value: 0.13489038663772168 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.03998339937937477, 'alpha': 2.34951480166224, 'colsample_bytree': 0.7082776110958994, 'subsample': 0.6173390577116568, 'learning_rate': 0.009390125329888362, 'max_depth': 7, 'min_child_weight': 54, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:59253
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 46 finished with value: 0.12487832699827858 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.007656951581305701, 'alpha': 1.4163475696936587, 'colsample_bytree': 0.6526384872471733, 'subsample': 0.5728475649146623, 'learning_rate': 0.011904629298583403, 'max_depth': 15, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:40297
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 47 finished with value: 0.14480046673863123 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.06320364132289669, 'alpha': 0.3004593449424959, 'colsample_bytree': 0.5696790395173483, 'subsample': 0.8464738784832732, 'learning_rate': 0.002575035046434108, 'max_depth': 5, 'min_child_weight': 43, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:56721
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 48 finished with value: 0.12546214980775602 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.018198093147688846, 'alpha': 0.6877655410922253, 'colsample_bytree': 0.8076528227702058, 'subsample': 0.7160555739212704, 'learning_rate': 0.02189022689282264, 'max_depth': 9, 'min_child_weight': 31, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:35029
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 49 finished with value: 0.1976160518775089 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.03980432794586776, 'alpha': 0.018726571198588185, 'colsample_bytree': 0.9492772623766104, 'subsample': 0.6791720435867757, 'learning_rate': 0.006231239734220405, 'max_depth': 13, 'min_child_weight': 277, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:50603
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 50 finished with value: 0.17925973561152508 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.08128973949270994, 'alpha': 0.0947928461039549, 'colsample_bytree': 0.755960803206456, 'subsample': 0.6309316645966827, 'learning_rate': 0.04315425967770517, 'max_depth': 15, 'min_child_weight': 243, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:35131
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 51 finished with value: 0.12430592465564261 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.012065923042238424, 'alpha': 1.255992225529548, 'colsample_bytree': 0.6454841627670174, 'subsample': 0.5820853214746519, 'learning_rate': 0.011910165407583218, 'max_depth': 15, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:43783
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 52 finished with value: 0.1249752751221462 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.011307583705539165, 'alpha': 1.1381630369971854, 'colsample_bytree': 0.7015439490388001, 'subsample': 0.5224376768806772, 'learning_rate': 0.015045921860715133, 'max_depth': 15, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:38725
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 53 finished with value: 0.12573925220910978 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.002450075873606213, 'alpha': 0.39937848549167354, 'colsample_bytree': 0.5955506791619025, 'subsample': 0.589012652826804, 'learning_rate': 0.012040797492226972, 'max_depth': 15, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:38055
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 54 finished with value: 0.13090275933662496 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.03258767727544193, 'alpha': 2.2340655982822795, 'colsample_bytree': 0.5233736911384635, 'subsample': 0.5110110081889456, 'learning_rate': 0.009227002421202737, 'max_depth': 15, 'min_child_weight': 30, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:45013
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 55 finished with value: 0.1351353345316666 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.009942913336447307, 'alpha': 0.16546158056598076, 'colsample_bytree': 0.6673552872243623, 'subsample': 0.7498677402514482, 'learning_rate': 0.027049308618759798, 'max_depth': 3, 'min_child_weight': 47, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:57265
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 56 finished with value: 0.1603609797133202 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.021132828483634056, 'alpha': 0.8330762493471134, 'colsample_bytree': 0.6274176832007206, 'subsample': 0.8046180758258537, 'learning_rate': 0.018818845373191673, 'max_depth': 17, 'min_child_weight': 185, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:48349
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 57 finished with value: 0.13858713573798873 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.005792828426024239, 'alpha': 6.3408690773762295, 'colsample_bytree': 0.7417954573195239, 'subsample': 0.589002422118034, 'learning_rate': 0.005634288124078099, 'max_depth': 11, 'min_child_weight': 61, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:55693
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 58 finished with value: 0.12763978343869006 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.14370307378227762, 'alpha': 0.2913387880307286, 'colsample_bytree': 0.7799967822309362, 'subsample': 0.6682570787548814, 'learning_rate': 0.0071570806438593345, 'max_depth': 7, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:47727
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 59 finished with value: 0.14253224699185724 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.420315333202728, 'alpha': 0.7056470842579977, 'colsample_bytree': 0.7285266317397704, 'subsample': 0.4614382027890188, 'learning_rate': 0.01548067362346228, 'max_depth': 13, 'min_child_weight': 81, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:56093
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 60 finished with value: 0.1264033151101855 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.06478995610256331, 'alpha': 1.4195513540988236, 'colsample_bytree': 0.8441529193989424, 'subsample': 0.7833974076872923, 'learning_rate': 0.004744630076071379, 'max_depth': 9, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:34285
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 61 finished with value: 0.12543356353652974 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.009801498637210389, 'alpha': 1.1724331849629823, 'colsample_bytree': 0.6475127695443502, 'subsample': 0.5488368782078964, 'learning_rate': 0.010849198844409253, 'max_depth': 15, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:57465
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 62 finished with value: 0.12671055527018726 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.006704316008042924, 'alpha': 1.577917184705707, 'colsample_bytree': 0.6056473356674547, 'subsample': 0.5709461015908543, 'learning_rate': 0.01269397633163632, 'max_depth': 15, 'min_child_weight': 25, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:36353
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 63 finished with value: 0.12904964036267977 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0031835416782644093, 'alpha': 0.4215368620474788, 'colsample_bytree': 0.6678127686593398, 'subsample': 0.5879727587204865, 'learning_rate': 0.023469838570064253, 'max_depth': 15, 'min_child_weight': 38, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:40047
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 64 finished with value: 0.13198390231971574 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0154047538641142, 'alpha': 2.850981595489738, 'colsample_bytree': 0.3015911823325987, 'subsample': 0.6369091031893, 'learning_rate': 0.008512408651846541, 'max_depth': 15, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:41535
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 65 finished with value: 0.12766858059290143 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.027483376554336594, 'alpha': 2.1085223370791795, 'colsample_bytree': 0.5756845301131671, 'subsample': 0.8635630486831221, 'learning_rate': 0.010377260853702426, 'max_depth': 20, 'min_child_weight': 41, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:58125
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 66 finished with value: 0.12998874950109784 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.008254205674865771, 'alpha': 0.2173887898840488, 'colsample_bytree': 0.46594022096458243, 'subsample': 0.4287109343721972, 'learning_rate': 0.032336148814220124, 'max_depth': 15, 'min_child_weight': 26, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:47973
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 67 finished with value: 0.12766754683791917 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.04854450448381576, 'alpha': 0.7400369126393554, 'colsample_bytree': 0.5455905307695998, 'subsample': 0.9121724584224458, 'learning_rate': 0.013812806929265647, 'max_depth': 15, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:40383
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 68 finished with value: 0.12647893269112345 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.1612730489521338, 'alpha': 0.5398537284863055, 'colsample_bytree': 0.8812120096086903, 'subsample': 0.7635718053579995, 'learning_rate': 0.016643375782060422, 'max_depth': 13, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:51413
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 69 finished with value: 0.1333864377742861 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.014023285191130563, 'alpha': 4.818265505582375, 'colsample_bytree': 0.8120630029587209, 'subsample': 0.7078894515576014, 'learning_rate': 0.006973163844265121, 'max_depth': 15, 'min_child_weight': 52, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:55665
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 70 finished with value: 0.1406773321087287 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.03315712415375684, 'alpha': 0.001214086770816916, 'colsample_bytree': 0.6936162093804529, 'subsample': 0.536552657755874, 'learning_rate': 0.020034566674980322, 'max_depth': 5, 'min_child_weight': 64, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:49957
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 71 finished with value: 0.12631810582227218 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.010183907974441898, 'alpha': 1.0376868165521924, 'colsample_bytree': 0.7092344578513405, 'subsample': 0.48957672178346523, 'learning_rate': 0.015485401241663314, 'max_depth': 15, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:48389
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 72 finished with value: 0.12520060991230014 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.012138625796985065, 'alpha': 1.3410729117709255, 'colsample_bytree': 0.6435113299816648, 'subsample': 0.5126936091784308, 'learning_rate': 0.011797698118225014, 'max_depth': 15, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:54581
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 73 finished with value: 0.12491942408699601 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.006722164800011487, 'alpha': 1.090766474591862, 'colsample_bytree': 0.7032066974353512, 'subsample': 0.8218709818209301, 'learning_rate': 0.014328730950659592, 'max_depth': 15, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:58689
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 74 finished with value: 0.12662353617589123 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0026261947023503932, 'alpha': 0.003138194713685829, 'colsample_bytree': 0.7635562110993807, 'subsample': 0.8034041549545351, 'learning_rate': 0.0181238244273908, 'max_depth': 15, 'min_child_weight': 32, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:38591
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 75 finished with value: 0.13702167567368922 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.00744164958441226, 'alpha': 0.38621697342869277, 'colsample_bytree': 0.6194227975158696, 'subsample': 0.8259398811976727, 'learning_rate': 0.009992551512703354, 'max_depth': 3, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 23 with value: 0.12410830842228636.
+start listen on 192.168.1.101:50733
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 76 finished with value: 0.12389551575268011 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.01980061631309713, 'alpha': 1.8396820493676351, 'colsample_bytree': 0.6781918386980673, 'subsample': 0.7408439518270696, 'learning_rate': 0.01304242292747554, 'max_depth': 15, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:47333
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 77 finished with value: 0.12951038877765503 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.022484114658968178, 'alpha': 4.048087065851904, 'colsample_bytree': 0.6630711085533086, 'subsample': 0.7419535155822959, 'learning_rate': 0.008721439727324217, 'max_depth': 17, 'min_child_weight': 40, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:38003
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 78 finished with value: 0.15447507269881855 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.37269399681487664, 'alpha': 1.7047887836595603, 'colsample_bytree': 0.7268087150510066, 'subsample': 0.7318623300459591, 'learning_rate': 0.003858266610168696, 'max_depth': 15, 'min_child_weight': 138, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:50743
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 79 finished with value: 0.1991022777565766 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.08527238803181797, 'alpha': 2.4436223199926577, 'colsample_bytree': 0.7897842541711911, 'subsample': 0.6057249765851098, 'learning_rate': 0.0013083757480004687, 'max_depth': 11, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:37299
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 80 finished with value: 0.12429409232667706 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.2627062315039357, 'alpha': 0.278755298095834, 'colsample_bytree': 0.7461256031181629, 'subsample': 0.6529379333498425, 'learning_rate': 0.012865633575227851, 'max_depth': 13, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:44731
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 81 finished with value: 0.12436539234184435 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.123128317043, 'alpha': 0.27093888587412196, 'colsample_bytree': 0.6843250670416511, 'subsample': 0.6801965222528615, 'learning_rate': 0.011513947380279181, 'max_depth': 13, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:54549
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 82 finished with value: 0.12474191539878697 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.6838724736290027, 'alpha': 0.1255769945771702, 'colsample_bytree': 0.6830575702278198, 'subsample': 0.6542043838097542, 'learning_rate': 0.013175305582506609, 'max_depth': 13, 'min_child_weight': 4, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:52971
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 83 finished with value: 0.12504897823915903 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.187431509298384, 'alpha': 0.10141813097606815, 'colsample_bytree': 0.6896802212344357, 'subsample': 0.6565188700085652, 'learning_rate': 0.010757901274924167, 'max_depth': 13, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:49171
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 84 finished with value: 0.12565928757976255 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.5496873168878575, 'alpha': 0.1354174713935522, 'colsample_bytree': 0.6767886903800541, 'subsample': 0.6765716453356989, 'learning_rate': 0.022313934517891154, 'max_depth': 13, 'min_child_weight': 27, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:45879
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 85 finished with value: 0.12407962512482668 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.576296547653467, 'alpha': 0.2617501968486649, 'colsample_bytree': 0.7482611516386343, 'subsample': 0.6253606094135318, 'learning_rate': 0.007925518251773787, 'max_depth': 13, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:57983
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 86 finished with value: 0.12673049573968334 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.007277686946887, 'alpha': 0.22692869810414898, 'colsample_bytree': 0.7469186678165852, 'subsample': 0.6876077453414047, 'learning_rate': 0.006382568435936268, 'max_depth': 13, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:34419
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 87 finished with value: 0.12827808024721626 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.6524624917905864, 'alpha': 0.28462733390765127, 'colsample_bytree': 0.7190287053286911, 'subsample': 0.7007091034024671, 'learning_rate': 0.007659315821976208, 'max_depth': 13, 'min_child_weight': 34, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:43445
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 88 finished with value: 0.13534285540881472 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.204462501255849, 'alpha': 0.17582247329191597, 'colsample_bytree': 0.7358447911052541, 'subsample': 0.6277468831175974, 'learning_rate': 0.005020481110655123, 'max_depth': 13, 'min_child_weight': 46, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:48659
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 89 finished with value: 0.1253040688821515 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.1300548750578803, 'alpha': 0.06782538192864423, 'colsample_bytree': 0.6316326229984038, 'subsample': 0.7655570286433021, 'learning_rate': 0.00652554005607444, 'max_depth': 13, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:54461
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 90 finished with value: 0.1266974518481195 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.001362386784524, 'alpha': 0.4565245736547301, 'colsample_bytree': 0.7667209737939319, 'subsample': 0.6193477405737005, 'learning_rate': 0.008520406591883686, 'max_depth': 13, 'min_child_weight': 26, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:55537
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 91 finished with value: 0.1265781938969657 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.820436870153566, 'alpha': 0.3447403696394956, 'colsample_bytree': 0.679538939302708, 'subsample': 0.6621676514954102, 'learning_rate': 0.020343716666259642, 'max_depth': 13, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:54273
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 92 finished with value: 0.1247018859946368 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.456166370362599, 'alpha': 0.11047411158259038, 'colsample_bytree': 0.7093274648995143, 'subsample': 0.6449125808059653, 'learning_rate': 0.01732424993038143, 'max_depth': 13, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 76 with value: 0.12389551575268011.
+start listen on 192.168.1.101:39451
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 93 finished with value: 0.12383030264402829 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.662649789529455, 'alpha': 0.25605817458150987, 'colsample_bytree': 0.9237733754112777, 'subsample': 0.6467046619795329, 'learning_rate': 0.016977506240677533, 'max_depth': 13, 'min_child_weight': 17, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:47135
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 94 finished with value: 0.12414786974296024 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.2770538463350976, 'alpha': 0.25130526708841816, 'colsample_bytree': 0.9288828807765035, 'subsample': 0.6449207445479017, 'learning_rate': 0.016545317192314037, 'max_depth': 13, 'min_child_weight': 17, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:51201
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 95 finished with value: 0.12423900778009415 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.53251433084848, 'alpha': 0.2550973374181453, 'colsample_bytree': 0.9661935756818617, 'subsample': 0.6008309148450692, 'learning_rate': 0.009723355853801687, 'max_depth': 13, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:33815
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 96 finished with value: 0.12452878604557846 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.572730019288723, 'alpha': 0.24290643438704343, 'colsample_bytree': 0.9634444983377144, 'subsample': 0.6023667002776281, 'learning_rate': 0.011329640910830177, 'max_depth': 13, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:50891
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 97 finished with value: 0.1545299437377994 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.605927427862884, 'alpha': 0.6337223755990461, 'colsample_bytree': 0.8993488893684711, 'subsample': 0.67826813810795, 'learning_rate': 0.009682858147759384, 'max_depth': 13, 'min_child_weight': 165, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:56209
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 98 finished with value: 0.12647393889997552 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.868115367797031, 'alpha': 0.15587085027520245, 'colsample_bytree': 0.9238818416870833, 'subsample': 0.6003735174877578, 'learning_rate': 0.014499712675883463, 'max_depth': 13, 'min_child_weight': 34, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:41147
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 99 finished with value: 0.12551272181525144 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.6424560239390935, 'alpha': 0.5325252602169248, 'colsample_bytree': 0.9726249872124625, 'subsample': 0.6286236956009177, 'learning_rate': 0.0126882150926092, 'max_depth': 7, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:44357
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 100 finished with value: 0.12597012097904597 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.1963158887906165, 'alpha': 0.05374089258438763, 'colsample_bytree': 0.9147767052778116, 'subsample': 0.5695269154354576, 'learning_rate': 0.016201993282245003, 'max_depth': 13, 'min_child_weight': 27, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:44545
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 101 finished with value: 0.1244330564380687 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.4067064444230395, 'alpha': 0.2498106234592183, 'colsample_bytree': 0.9587627094313929, 'subsample': 0.6140978545419034, 'learning_rate': 0.011110100141226466, 'max_depth': 13, 'min_child_weight': 15, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:41181
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 102 finished with value: 0.1252181248449109 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.2093022610624296, 'alpha': 0.19469379889583907, 'colsample_bytree': 0.9896357003215724, 'subsample': 0.5813546141685446, 'learning_rate': 0.008161579954664006, 'max_depth': 13, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:56997
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 103 finished with value: 0.1253798866953281 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.576091816065106, 'alpha': 0.091032876523696, 'colsample_bytree': 0.9479557710127041, 'subsample': 0.6478979341743264, 'learning_rate': 0.011198761027802909, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:54813
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 104 finished with value: 0.12517073322228842 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.07050501655298, 'alpha': 0.32906251209324155, 'colsample_bytree': 0.8912920376663402, 'subsample': 0.6115843341390573, 'learning_rate': 0.009220148388949457, 'max_depth': 13, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:44357
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 105 finished with value: 0.125596253334938 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.02644301376336, 'alpha': 0.2637877454366203, 'colsample_bytree': 0.8659463769110556, 'subsample': 0.5475013244154493, 'learning_rate': 0.009791188351113922, 'max_depth': 9, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:35503
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 106 finished with value: 0.12654792895478276 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.8866401495482155, 'alpha': 0.8608266332118824, 'colsample_bytree': 0.9663637720670238, 'subsample': 0.6225160684599373, 'learning_rate': 0.01876548035671583, 'max_depth': 13, 'min_child_weight': 38, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:34241
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 107 finished with value: 0.12571050283848223 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.075612830235745, 'alpha': 0.4668443199194792, 'colsample_bytree': 0.9178342608239636, 'subsample': 0.6380476590463036, 'learning_rate': 0.024148530007654156, 'max_depth': 13, 'min_child_weight': 30, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:47669
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 108 finished with value: 0.1258002559966249 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.85899414997795, 'alpha': 0.37235740807316936, 'colsample_bytree': 0.9841031127940408, 'subsample': 0.6897231032693992, 'learning_rate': 0.02736840112010319, 'max_depth': 5, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:36069
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 109 finished with value: 0.1242496277937486 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.333687905678642, 'alpha': 0.19945952309988943, 'colsample_bytree': 0.9442140625269774, 'subsample': 0.7243263187229372, 'learning_rate': 0.01266504873774423, 'max_depth': 13, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:57897
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 110 finished with value: 0.13647461583863482 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.1583676858667933, 'alpha': 0.189551100166912, 'colsample_bytree': 0.9350054056514737, 'subsample': 0.7896387672569395, 'learning_rate': 0.012335029020297664, 'max_depth': 3, 'min_child_weight': 46, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:35967
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 111 finished with value: 0.1243678013731194 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.058510681344655, 'alpha': 0.16109663159148865, 'colsample_bytree': 0.951141906848068, 'subsample': 0.7262715036192104, 'learning_rate': 0.013622589697668075, 'max_depth': 13, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:55119
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 112 finished with value: 0.12492805000384137 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.8700409954162405, 'alpha': 0.14982483342142833, 'colsample_bytree': 0.9272120189186345, 'subsample': 0.7251404613844655, 'learning_rate': 0.01343137831906847, 'max_depth': 13, 'min_child_weight': 24, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:47557
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 113 finished with value: 0.12474079615105525 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.41197088387111, 'alpha': 0.1344587159456303, 'colsample_bytree': 0.9467847075225184, 'subsample': 0.749035508092404, 'learning_rate': 0.01522129202731415, 'max_depth': 13, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:60579
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 114 finished with value: 0.12428003336859107 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.228828748332127, 'alpha': 0.32366427946989224, 'colsample_bytree': 0.9764008294492807, 'subsample': 0.7001934641814019, 'learning_rate': 0.016494783250988104, 'max_depth': 13, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:54411
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 115 finished with value: 0.12616313324997022 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.018789386668344704, 'alpha': 0.3109301413984615, 'colsample_bytree': 0.9840546609945073, 'subsample': 0.7052609468905696, 'learning_rate': 0.016894132834442084, 'max_depth': 17, 'min_child_weight': 31, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:49545
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 116 finished with value: 0.1256464275838986 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.5455886575101023, 'alpha': 0.20800836796917418, 'colsample_bytree': 0.9069776245199077, 'subsample': 0.6803408006226875, 'learning_rate': 0.019341106495771535, 'max_depth': 11, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:59993
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 117 finished with value: 0.12658720806888038 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 2.711671578027133, 'alpha': 0.5934806314994836, 'colsample_bytree': 0.8447040841209105, 'subsample': 0.6728440259345216, 'learning_rate': 0.015992351512862213, 'max_depth': 13, 'min_child_weight': 38, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:58557
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 118 finished with value: 0.13203690125778947 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.687188929405968, 'alpha': 0.08337028228168927, 'colsample_bytree': 0.973186800837854, 'subsample': 0.7136518741972772, 'learning_rate': 0.010508366239173084, 'max_depth': 13, 'min_child_weight': 52, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:44525
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 119 finished with value: 0.12695193618532624 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.8708408844123412, 'alpha': 0.4962097949222865, 'colsample_bytree': 0.9409899414253864, 'subsample': 0.6637406575269588, 'learning_rate': 0.007294257945507822, 'max_depth': 7, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:42447
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 120 finished with value: 0.12438299629718473 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.31385461387316, 'alpha': 0.40278322307361364, 'colsample_bytree': 0.8763889696199479, 'subsample': 0.6939611890899918, 'learning_rate': 0.012238363507997695, 'max_depth': 9, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:58467
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 121 finished with value: 0.12433840073263504 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.0417108369006725, 'alpha': 0.25915106791088777, 'colsample_bytree': 0.9971612483816279, 'subsample': 0.7407932039285071, 'learning_rate': 0.013704768608879096, 'max_depth': 13, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:44439
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 122 finished with value: 0.12516874491900115 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.2385452610456955, 'alpha': 0.24874285006380853, 'colsample_bytree': 0.9954747798594402, 'subsample': 0.7415920752552019, 'learning_rate': 0.014847132313613901, 'max_depth': 13, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:58267
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 123 finished with value: 0.12419482195161181 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.005158615222777, 'alpha': 0.7538995797837541, 'colsample_bytree': 0.9342328207237313, 'subsample': 0.7537949043395404, 'learning_rate': 0.01762013784347655, 'max_depth': 13, 'min_child_weight': 26, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:38103
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 124 finished with value: 0.12527076695896638 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.318163747841183, 'alpha': 0.7615826673257745, 'colsample_bytree': 0.9678109346574321, 'subsample': 0.7600339527045334, 'learning_rate': 0.021667217993401655, 'max_depth': 13, 'min_child_weight': 27, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:53097
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 125 finished with value: 0.16460696976406503 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.597592999478106, 'alpha': 0.9410401912811797, 'colsample_bytree': 0.9998589793529008, 'subsample': 0.5965426841214682, 'learning_rate': 0.01801929911768262, 'max_depth': 13, 'min_child_weight': 199, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:57849
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 126 finished with value: 0.12546347393262838 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.312228982550989, 'alpha': 0.6903724535410752, 'colsample_bytree': 0.9328068507535069, 'subsample': 0.7921265258311725, 'learning_rate': 0.014185822207147385, 'max_depth': 20, 'min_child_weight': 33, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:45205
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 127 finished with value: 0.12439204751210463 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.081346554838223, 'alpha': 2.0483305937079797, 'colsample_bytree': 0.8914141723098045, 'subsample': 0.7737466296269201, 'learning_rate': 0.016970798330688767, 'max_depth': 13, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:41231
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 128 finished with value: 0.12493268798774919 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.9928440073328004, 'alpha': 0.3176567166677012, 'colsample_bytree': 0.9781131115583629, 'subsample': 0.7365529832657425, 'learning_rate': 0.0091698214092329, 'max_depth': 13, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:35771
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 129 finished with value: 0.17290548535963302 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.930850911694744, 'alpha': 0.19727502297031502, 'colsample_bytree': 0.9125975342125603, 'subsample': 0.757043235127419, 'learning_rate': 0.020213987154829857, 'max_depth': 5, 'min_child_weight': 252, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:53957
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 130 finished with value: 0.12528103916985137 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.451532710752737, 'alpha': 1.5521639522015183, 'colsample_bytree': 0.3855027102326163, 'subsample': 0.6477704213193604, 'learning_rate': 0.012652525074885441, 'max_depth': 13, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:50571
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 131 finished with value: 0.12461879734743968 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.7397213160616628, 'alpha': 0.3515258818918251, 'colsample_bytree': 0.660248485094508, 'subsample': 0.7176901213926625, 'learning_rate': 0.010225476431367876, 'max_depth': 13, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:40745
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 132 finished with value: 0.12696234451671662 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.0238731568103487, 'alpha': 0.2739168039152359, 'colsample_bytree': 0.9544466442209492, 'subsample': 0.9827643095999762, 'learning_rate': 0.015703511647858603, 'max_depth': 13, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:54391
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 133 finished with value: 0.12415984898758628 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.901167312534129, 'alpha': 1.2074283231565983, 'colsample_bytree': 0.9310639675218828, 'subsample': 0.7028663650295175, 'learning_rate': 0.011445633784069193, 'max_depth': 13, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:46883
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 134 finished with value: 0.12476600835516627 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.095425974672413, 'alpha': 1.0884506768119133, 'colsample_bytree': 0.9361788980811435, 'subsample': 0.7714043547684045, 'learning_rate': 0.008044156922211613, 'max_depth': 13, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:32987
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 135 finished with value: 0.12508221887743382 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.0012753577379614443, 'alpha': 2.6938592993500405, 'colsample_bytree': 0.9218335513316211, 'subsample': 0.6998813951227225, 'learning_rate': 0.013545067516890857, 'max_depth': 15, 'min_child_weight': 28, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:49791
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 136 finished with value: 0.12560579277686537 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.615294439693576, 'alpha': 1.2641123206468294, 'colsample_bytree': 0.9590287768998307, 'subsample': 0.7483797202905794, 'learning_rate': 0.018287650363184846, 'max_depth': 13, 'min_child_weight': 39, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:58733
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 137 finished with value: 0.14665711255734576 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.721363964943878, 'alpha': 0.591028464729985, 'colsample_bytree': 0.9003334249392415, 'subsample': 0.8545513323651089, 'learning_rate': 0.011912377129432387, 'max_depth': 3, 'min_child_weight': 100, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:54647
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 138 finished with value: 0.12447341871170932 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.012732366362611604, 'alpha': 0.8405110804821159, 'colsample_bytree': 0.8199484789744369, 'subsample': 0.7360811024703753, 'learning_rate': 0.014569388330559882, 'max_depth': 15, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:45755
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 139 finished with value: 0.12481910638444596 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.24698557373311067, 'alpha': 1.8818348586083966, 'colsample_bytree': 0.9810794838802726, 'subsample': 0.725979627777028, 'learning_rate': 0.008720081390496518, 'max_depth': 13, 'min_child_weight': 15, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:37159
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 140 finished with value: 0.1284421098763708 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.0634381845439815, 'alpha': 0.434227448157301, 'colsample_bytree': 0.9378363479377798, 'subsample': 0.706662822750201, 'learning_rate': 0.009984632558446527, 'max_depth': 17, 'min_child_weight': 43, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:36327
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 141 finished with value: 0.1241617901582066 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.2607338455643085, 'alpha': 0.23449551933390703, 'colsample_bytree': 0.6430731185745973, 'subsample': 0.6851519145817005, 'learning_rate': 0.012422499695979949, 'max_depth': 13, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:36785
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 142 finished with value: 0.12515727979358998 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.8683946312450215, 'alpha': 0.23738672694985022, 'colsample_bytree': 0.6502283514593096, 'subsample': 0.6342186815493762, 'learning_rate': 0.01304047841700189, 'max_depth': 13, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:57053
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 143 finished with value: 0.12426374673927482 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.844258196967727, 'alpha': 0.16504913421439718, 'colsample_bytree': 0.6347449011668606, 'subsample': 0.6567791864068511, 'learning_rate': 0.011056235545911362, 'max_depth': 13, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:40817
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 144 finished with value: 0.12461614777929925 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.852360267894941, 'alpha': 0.17323390060804952, 'colsample_bytree': 0.5851922938949611, 'subsample': 0.657635333993124, 'learning_rate': 0.010913900749679307, 'max_depth': 13, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:46055
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 145 finished with value: 0.12570022561369076 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.2315892293287636, 'alpha': 0.20442278101858577, 'colsample_bytree': 0.6076741622655994, 'subsample': 0.6861011953696665, 'learning_rate': 0.01664426064654179, 'max_depth': 11, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:48803
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 146 finished with value: 0.12450244264185768 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.407865082691983, 'alpha': 0.10729019849053638, 'colsample_bytree': 0.6360484419338864, 'subsample': 0.6403906682623626, 'learning_rate': 0.011692419950818423, 'max_depth': 13, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:39331
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 147 finished with value: 0.12857174741147212 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.026759567552183623, 'alpha': 0.14070267645360868, 'colsample_bytree': 0.6603110202275814, 'subsample': 0.6671890940571749, 'learning_rate': 0.006869014689160746, 'max_depth': 15, 'min_child_weight': 30, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:53417
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 148 finished with value: 0.20908879076192669 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.2275412547915545, 'alpha': 0.9926333208063691, 'colsample_bytree': 0.6171660283414155, 'subsample': 0.6222324890388693, 'learning_rate': 0.009907562823289591, 'max_depth': 13, 'min_child_weight': 294, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:52637
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 149 finished with value: 0.1258009558245424 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.015911399486193325, 'alpha': 1.491085422928897, 'colsample_bytree': 0.6385880720017352, 'subsample': 0.5849352009997585, 'learning_rate': 0.007882067925450643, 'max_depth': 13, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:34631
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 150 finished with value: 0.12539584293872588 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.4485365761019334, 'alpha': 0.3563105718012625, 'colsample_bytree': 0.5938301614225486, 'subsample': 0.6512517054371261, 'learning_rate': 0.015144669265538573, 'max_depth': 15, 'min_child_weight': 4, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:58389
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 151 finished with value: 0.12448454024439494 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.033099725372311, 'alpha': 0.23087976806649593, 'colsample_bytree': 0.9651954728153216, 'subsample': 0.7208424574135277, 'learning_rate': 0.013393026205843928, 'max_depth': 13, 'min_child_weight': 24, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:41053
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 152 finished with value: 0.12480110541448541 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.717010154578596, 'alpha': 0.17196190267384956, 'colsample_bytree': 0.6972481499115974, 'subsample': 0.8908576552533711, 'learning_rate': 0.010961951938958546, 'max_depth': 13, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 93 with value: 0.12383030264402829.
+start listen on 192.168.1.101:60327
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 153 finished with value: 0.12344079874826883 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.902399291054683, 'alpha': 0.27894884505568696, 'colsample_bytree': 0.9523039723079996, 'subsample': 0.6989286014383402, 'learning_rate': 0.01233118807940889, 'max_depth': 13, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:41419
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 154 finished with value: 0.12364407237629103 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.989852528996678, 'alpha': 0.42320076440459264, 'colsample_bytree': 0.9244076756369392, 'subsample': 0.6962687227332307, 'learning_rate': 0.012447835402093061, 'max_depth': 13, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:38147
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 155 finished with value: 0.12461499523615745 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.755502194764308, 'alpha': 0.5011795437102577, 'colsample_bytree': 0.9237095588421173, 'subsample': 0.6971376917351564, 'learning_rate': 0.009283959570829935, 'max_depth': 13, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:52939
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 156 finished with value: 0.12431349233439577 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.709642150255589, 'alpha': 0.4198165967382926, 'colsample_bytree': 0.9115258150993784, 'subsample': 0.669834457081849, 'learning_rate': 0.012345777284375754, 'max_depth': 13, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:47089
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 157 finished with value: 0.12949113677665103 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.524861040627036, 'alpha': 0.30359873918015023, 'colsample_bytree': 0.9461275608465951, 'subsample': 0.6860481010011601, 'learning_rate': 0.07228391215346833, 'max_depth': 13, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:42441
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 158 finished with value: 0.12530289293676306 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.8169469923294095, 'alpha': 0.3406074822172556, 'colsample_bytree': 0.8940604519362007, 'subsample': 0.7073787568109265, 'learning_rate': 0.017718192274039972, 'max_depth': 13, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:50231
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 159 finished with value: 0.14636043613042543 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.495010380887574, 'alpha': 0.6401492193123881, 'colsample_bytree': 0.8523651906707579, 'subsample': 0.6732884423750721, 'learning_rate': 0.023054747386839138, 'max_depth': 13, 'min_child_weight': 127, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:37703
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 160 finished with value: 0.1258812101313206 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.708096393308537, 'alpha': 0.20803521800473096, 'colsample_bytree': 0.8654864516208793, 'subsample': 0.6946411923717967, 'learning_rate': 0.019936632563243788, 'max_depth': 7, 'min_child_weight': 27, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:51717
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 161 finished with value: 0.12419149520253916 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.786173226355131, 'alpha': 0.7910143882622919, 'colsample_bytree': 0.8004328580944935, 'subsample': 0.6565319825432546, 'learning_rate': 0.014711713574883326, 'max_depth': 9, 'min_child_weight': 15, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:45821
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 162 finished with value: 0.12407009627050503 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.953572443956688, 'alpha': 0.7676818488998873, 'colsample_bytree': 0.7845972635658127, 'subsample': 0.6568889303078318, 'learning_rate': 0.014760666479745586, 'max_depth': 9, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:44569
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 163 finished with value: 0.12428156635733509 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.927670916903057, 'alpha': 0.9997384990403655, 'colsample_bytree': 0.795599957253115, 'subsample': 0.6614730815069091, 'learning_rate': 0.015568176817880025, 'max_depth': 9, 'min_child_weight': 17, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:50175
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 164 finished with value: 0.12616519312612903 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.28780343614821, 'alpha': 0.7280618157234847, 'colsample_bytree': 0.80533475009571, 'subsample': 0.7143440977643454, 'learning_rate': 0.014250617950994185, 'max_depth': 9, 'min_child_weight': 34, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:41601
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 165 finished with value: 0.12414713691997464 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.98521760274337, 'alpha': 0.515099073214387, 'colsample_bytree': 0.8355762534817603, 'subsample': 0.639340803045644, 'learning_rate': 0.01644546067675382, 'max_depth': 9, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:59323
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 166 finished with value: 0.12463190658847464 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.728061486074264, 'alpha': 0.8120435792159983, 'colsample_bytree': 0.83014357042488, 'subsample': 0.6344514794887169, 'learning_rate': 0.011141431857670471, 'max_depth': 9, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:46697
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 167 finished with value: 0.1249700828649153 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.65626820704151, 'alpha': 0.6400066501096638, 'colsample_bytree': 0.7733155996545996, 'subsample': 0.6421444095248414, 'learning_rate': 0.018708130471979844, 'max_depth': 9, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:35327
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 168 finished with value: 0.12674784100941586 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.874458143925319, 'alpha': 0.5177339680118592, 'colsample_bytree': 0.8175197896895893, 'subsample': 0.6135911040679607, 'learning_rate': 0.014477432332283463, 'max_depth': 9, 'min_child_weight': 28, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:33785
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 169 finished with value: 0.1274119998939439 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.346119430081475, 'alpha': 1.1685384043710885, 'colsample_bytree': 0.8446261223629772, 'subsample': 0.6522854152550935, 'learning_rate': 0.005713691895930233, 'max_depth': 9, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:36489
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 170 finished with value: 0.12434266104844696 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.906383985652485, 'alpha': 0.4330124942290565, 'colsample_bytree': 0.8779352371686887, 'subsample': 0.6266174013595395, 'learning_rate': 0.01605195514376137, 'max_depth': 9, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:39061
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 171 finished with value: 0.12490568710703895 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.663839098254819, 'alpha': 0.5401784608201485, 'colsample_bytree': 0.7839236168784474, 'subsample': 0.6684830445644371, 'learning_rate': 0.02081471331746754, 'max_depth': 9, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:56573
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 172 finished with value: 0.1245866602653591 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.686874636555567, 'alpha': 0.370634711922936, 'colsample_bytree': 0.8045951259066528, 'subsample': 0.6924367402874136, 'learning_rate': 0.017169968252846647, 'max_depth': 9, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:51817
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 173 finished with value: 0.12682141805062622 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.491366392830394, 'alpha': 0.9027590277286, 'colsample_bytree': 0.9297082479477097, 'subsample': 0.6862408865347811, 'learning_rate': 0.01273222201590015, 'max_depth': 9, 'min_child_weight': 34, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:35657
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 174 finished with value: 0.12416974757539709 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.95128867991851, 'alpha': 0.72777061958326, 'colsample_bytree': 0.7542474609869403, 'subsample': 0.679013924193511, 'learning_rate': 0.01570694850433226, 'max_depth': 20, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:53883
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 175 finished with value: 0.12478950549700527 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.387928371007137, 'alpha': 0.7611177116604141, 'colsample_bytree': 0.7628112646314491, 'subsample': 0.6786275658071946, 'learning_rate': 0.014385947599722343, 'max_depth': 20, 'min_child_weight': 25, 'eval_metric': 'rmse'}. Best is trial 153 with value: 0.12344079874826883.
+start listen on 192.168.1.101:52869
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 176 finished with value: 0.12335615377514302 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.136479652208082, 'alpha': 0.6256706580291778, 'colsample_bytree': 0.7215641336358384, 'subsample': 0.6457961617575155, 'learning_rate': 0.010303218970955376, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:55931
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 177 finished with value: 0.12368174350225872 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.482446609066917, 'alpha': 0.6289809485089052, 'colsample_bytree': 0.734091096890252, 'subsample': 0.6364880565967025, 'learning_rate': 0.008973063265992964, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:34967
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 178 finished with value: 0.12340234417653752 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.332766703360653, 'alpha': 0.7052160807969027, 'colsample_bytree': 0.739553859741189, 'subsample': 0.6406732853022278, 'learning_rate': 0.008293955346873251, 'max_depth': 20, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:35751
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 179 finished with value: 0.12433000634684972 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.10418659366060073, 'alpha': 0.6538792914723652, 'colsample_bytree': 0.7312089144622161, 'subsample': 0.641466204674294, 'learning_rate': 0.0074036782320710355, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:58273
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 180 finished with value: 0.12369935467909067 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.034247788928556, 'alpha': 0.8550352467057023, 'colsample_bytree': 0.747702213726804, 'subsample': 0.6330377911812498, 'learning_rate': 0.008926557345238114, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:39375
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 181 finished with value: 0.1235123208209619 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.059905670818511, 'alpha': 0.853976665643206, 'colsample_bytree': 0.7473273207983162, 'subsample': 0.6273779184999706, 'learning_rate': 0.008444063036770613, 'max_depth': 20, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:38809
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 182 finished with value: 0.12425229395011946 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.037122562917775, 'alpha': 0.8532537368653914, 'colsample_bytree': 0.7535211051782402, 'subsample': 0.633138920392124, 'learning_rate': 0.009288560529018108, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:47645
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 183 finished with value: 0.12384267941674018 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.216655599859552, 'alpha': 0.5652553284330828, 'colsample_bytree': 0.7378063497650936, 'subsample': 0.6205101232561326, 'learning_rate': 0.008616356345884911, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:38559
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 184 finished with value: 0.12427283341651763 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.63349177656098, 'alpha': 0.5683030677403352, 'colsample_bytree': 0.7500020653076761, 'subsample': 0.6197894190178487, 'learning_rate': 0.008510798787678627, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:46559
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 185 finished with value: 0.12438207180728432 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.994081379913142, 'alpha': 0.5919723000826758, 'colsample_bytree': 0.7231349609267081, 'subsample': 0.6477766877431805, 'learning_rate': 0.006851011822581206, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:48603
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 186 finished with value: 0.12383329591431366 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.339206924611643, 'alpha': 0.49310668866799673, 'colsample_bytree': 0.7479259846952807, 'subsample': 0.6093381690783961, 'learning_rate': 0.008581995132986018, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:56403
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 187 finished with value: 0.12384637299915824 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.26261908077947, 'alpha': 0.48151532017456317, 'colsample_bytree': 0.7391891308733722, 'subsample': 0.625092340527918, 'learning_rate': 0.008134539626393052, 'max_depth': 20, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:42809
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 188 finished with value: 0.12392447629231819 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.402640968750644, 'alpha': 0.43336586148536416, 'colsample_bytree': 0.7371013113213931, 'subsample': 0.5998554144941115, 'learning_rate': 0.007658148670329943, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:58337
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 189 finished with value: 0.12362811594263005 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.313503725220336, 'alpha': 0.472728669572054, 'colsample_bytree': 0.7398380241023104, 'subsample': 0.6063370569155857, 'learning_rate': 0.00827662129382465, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:40947
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 190 finished with value: 0.12378662692496485 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.642173959028293, 'alpha': 0.47042853678700436, 'colsample_bytree': 0.739045639703142, 'subsample': 0.6110325811852235, 'learning_rate': 0.007876808240516307, 'max_depth': 20, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:47399
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 191 finished with value: 0.12448549550569564 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.499908450327823, 'alpha': 0.47404631014551274, 'colsample_bytree': 0.74241052665308, 'subsample': 0.6029809522453857, 'learning_rate': 0.006257154344811071, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:43851
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 192 finished with value: 0.12411127213352262 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.834655824996851, 'alpha': 0.4762545455974577, 'colsample_bytree': 0.7201275574930923, 'subsample': 0.6109117132509007, 'learning_rate': 0.007678964186126052, 'max_depth': 20, 'min_child_weight': 4, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:36375
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 193 finished with value: 0.12377378284841076 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.713427772621355, 'alpha': 0.4776999281412692, 'colsample_bytree': 0.7150073084121746, 'subsample': 0.6119782343031555, 'learning_rate': 0.007736405925350782, 'max_depth': 20, 'min_child_weight': 5, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:55505
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 194 finished with value: 0.12406317325236245 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.647848786501312, 'alpha': 0.41669884603912377, 'colsample_bytree': 0.7125251545650381, 'subsample': 0.6123245445890318, 'learning_rate': 0.007878889542331097, 'max_depth': 20, 'min_child_weight': 2, 'eval_metric': 'rmse'}. Best is trial 176 with value: 0.12335615377514302.
+start listen on 192.168.1.101:46495
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 195 finished with value: 0.12325126988960092 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.04921485286765, 'alpha': 0.4047657315737352, 'colsample_bytree': 0.712714036563044, 'subsample': 0.5923422511345874, 'learning_rate': 0.008266119261479608, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:35959
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 196 finished with value: 0.12370531596509006 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.505173612973127, 'alpha': 0.42423427487176973, 'colsample_bytree': 0.737778744280519, 'subsample': 0.5939839478247209, 'learning_rate': 0.008505319675371801, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:46317
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 197 finished with value: 0.12340705268081545 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.281581801785515, 'alpha': 0.4057845928266327, 'colsample_bytree': 0.7103491284023354, 'subsample': 0.5955893475441192, 'learning_rate': 0.008535165064087726, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:39529
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 198 finished with value: 0.12371854790645592 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.319073595618954, 'alpha': 0.3910204382199673, 'colsample_bytree': 0.7135054235165661, 'subsample': 0.5930361826600644, 'learning_rate': 0.008397222117488938, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:55227
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 199 finished with value: 0.12361829388050136 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.45031132128725, 'alpha': 0.3724543165983291, 'colsample_bytree': 0.7365304929370802, 'subsample': 0.5731714172544106, 'learning_rate': 0.008554956473065829, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:59941
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 200 finished with value: 0.12429568480548449 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.04402982705342, 'alpha': 0.390829380989278, 'colsample_bytree': 0.7284103004870432, 'subsample': 0.5546271191694807, 'learning_rate': 0.008656831029799509, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:57743
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 201 finished with value: 0.12412824793815028 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.609848504426543, 'alpha': 0.4379665641688129, 'colsample_bytree': 0.7346074855487076, 'subsample': 0.5730828356916738, 'learning_rate': 0.007108209718963226, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:50751
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 202 finished with value: 0.1235507723714664 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.234089370298335, 'alpha': 0.5358497014652975, 'colsample_bytree': 0.7067781100112618, 'subsample': 0.5888895306970017, 'learning_rate': 0.00854867920667356, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:51827
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 203 finished with value: 0.12377068501918304 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.485623305310305, 'alpha': 0.5591215348221223, 'colsample_bytree': 0.7021833110563513, 'subsample': 0.5913627108219461, 'learning_rate': 0.008635667647233392, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:39655
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 204 finished with value: 0.12382949533890861 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.257926215884223, 'alpha': 0.5807250690783163, 'colsample_bytree': 0.7057894698638313, 'subsample': 0.5901082716392582, 'learning_rate': 0.008454906088158137, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:44939
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 205 finished with value: 0.12415699498816506 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.2092988813742, 'alpha': 0.6056574311850573, 'colsample_bytree': 0.7047336944233609, 'subsample': 0.5904270515509787, 'learning_rate': 0.008477833554868735, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:36519
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 206 finished with value: 0.12395107869054012 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.877805139719313, 'alpha': 0.5631651229303735, 'colsample_bytree': 0.7161945018271163, 'subsample': 0.5666611736920774, 'learning_rate': 0.008949723110413161, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:36169
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 207 finished with value: 0.12449773540469843 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.372118846035835, 'alpha': 0.36019073744031854, 'colsample_bytree': 0.6961721478461853, 'subsample': 0.580710131784697, 'learning_rate': 0.006415875093894421, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:39735
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 208 finished with value: 0.12360782579330104 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.702923498972992, 'alpha': 0.6241810297155513, 'colsample_bytree': 0.7189591478884487, 'subsample': 0.5928696160732713, 'learning_rate': 0.009377203719351548, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:40369
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 209 finished with value: 0.12348979881155266 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.937882037592058, 'alpha': 0.6605178555295308, 'colsample_bytree': 0.7016082558562261, 'subsample': 0.5916668379561991, 'learning_rate': 0.009324461033215157, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:52905
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 210 finished with value: 0.12370569351200464 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.836491405383505, 'alpha': 0.669799324926521, 'colsample_bytree': 0.7092032856893776, 'subsample': 0.5939659352109551, 'learning_rate': 0.009947742966370101, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:60741
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 211 finished with value: 0.1234887943023452 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.84099446230981, 'alpha': 0.7093976710587138, 'colsample_bytree': 0.7090872312000814, 'subsample': 0.5919024151063975, 'learning_rate': 0.009487667484525838, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:33317
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 212 finished with value: 0.12352316330936748 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.6169982685971735, 'alpha': 0.6430254016223566, 'colsample_bytree': 0.7100775061654617, 'subsample': 0.5790116691328175, 'learning_rate': 0.009768225480954377, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:48447
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 213 finished with value: 0.12384785426961219 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.668913711581994, 'alpha': 0.6564146617892591, 'colsample_bytree': 0.6913205641097534, 'subsample': 0.577254865335085, 'learning_rate': 0.00954648399585551, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:35127
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 214 finished with value: 0.1245372166086967 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.3595378646902345, 'alpha': 0.6693967530192623, 'colsample_bytree': 0.7187987357505252, 'subsample': 0.559183347147824, 'learning_rate': 0.010018853084279869, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:57485
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 215 finished with value: 0.12430339291768042 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.727947839081212, 'alpha': 0.9033402993857297, 'colsample_bytree': 0.7079946263059361, 'subsample': 0.5929521691378987, 'learning_rate': 0.007095003831604514, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:39283
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 216 finished with value: 0.12451001142805579 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.5046849313264365, 'alpha': 0.6446282897112238, 'colsample_bytree': 0.7236913017705873, 'subsample': 0.5670941787198628, 'learning_rate': 0.009427284922471272, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:37207
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 217 finished with value: 0.12327999166899996 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.075006806098592, 'alpha': 0.4051596019103518, 'colsample_bytree': 0.6876839264934709, 'subsample': 0.5941520513858222, 'learning_rate': 0.01015939584555619, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:48087
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 218 finished with value: 0.12413886907540624 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.0950186465326395, 'alpha': 0.38715389162122393, 'colsample_bytree': 0.6944952963079443, 'subsample': 0.5851216190616043, 'learning_rate': 0.010218409595467158, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:54551
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 219 finished with value: 0.12428577285203982 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.009757592252482, 'alpha': 0.007944950218009218, 'colsample_bytree': 0.6853083732748719, 'subsample': 0.5980044582909776, 'learning_rate': 0.009056994176568866, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:55789
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 220 finished with value: 0.12402871051966871 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.879327955488401, 'alpha': 0.5102535608321523, 'colsample_bytree': 0.7153325199171411, 'subsample': 0.5764693053067984, 'learning_rate': 0.010371512401502175, 'max_depth': 20, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:40933
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 221 finished with value: 0.12401087213564627 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.018168544538145, 'alpha': 0.4351328348318637, 'colsample_bytree': 0.7047585635323065, 'subsample': 0.5419978088163973, 'learning_rate': 0.007763400099065241, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:37179
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 222 finished with value: 0.1236573619859328 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.110097878571801, 'alpha': 0.6885805303491979, 'colsample_bytree': 0.7265209553664306, 'subsample': 0.5969377683186994, 'learning_rate': 0.009255040165080372, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:34765
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 223 finished with value: 0.12326629416478008 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.6988211528918695, 'alpha': 0.9695695530407792, 'colsample_bytree': 0.6794792272384055, 'subsample': 0.5955293565122229, 'learning_rate': 0.009427687562974461, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:36389
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 224 finished with value: 0.12391205567116065 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.687347669701223, 'alpha': 0.8498147929890745, 'colsample_bytree': 0.6738809040061204, 'subsample': 0.5903604115049972, 'learning_rate': 0.009521268405519211, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:51479
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 225 finished with value: 0.12422802234922503 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.747437045375855, 'alpha': 0.6885111016563368, 'colsample_bytree': 0.6966667956343093, 'subsample': 0.5981996138634671, 'learning_rate': 0.010084378328840203, 'max_depth': 20, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:51591
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 226 finished with value: 0.12408628778800111 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.113571296538086, 'alpha': 0.9154354481113041, 'colsample_bytree': 0.6828575818245652, 'subsample': 0.5613866446115008, 'learning_rate': 0.009250579808341241, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:58475
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 227 finished with value: 0.12360973813133234 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.939899851090134, 'alpha': 1.0006342838146018, 'colsample_bytree': 0.725564535698222, 'subsample': 0.5822155914713267, 'learning_rate': 0.008911613845267457, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:42175
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 228 finished with value: 0.12433740473362172 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.012009525141833, 'alpha': 1.0287380400205828, 'colsample_bytree': 0.726242717056326, 'subsample': 0.5865183147213364, 'learning_rate': 0.010557022781636522, 'max_depth': 20, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:55121
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 229 finished with value: 0.17958034824313368 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 3.810179020869418, 'alpha': 0.9925574361975108, 'colsample_bytree': 0.7642627942639597, 'subsample': 0.5751902627611731, 'learning_rate': 0.009293846493780018, 'max_depth': 20, 'min_child_weight': 221, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:47137
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 230 finished with value: 0.1233717140121185 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.354928946480697, 'alpha': 0.7653755607936853, 'colsample_bytree': 0.7303273482419637, 'subsample': 0.6026358372919434, 'learning_rate': 0.010165999329772626, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:56101
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 231 finished with value: 0.12337034106934408 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.087700518895399, 'alpha': 0.7536341185177133, 'colsample_bytree': 0.7275359546011981, 'subsample': 0.5992548342555788, 'learning_rate': 0.010422687139235687, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:39643
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 232 finished with value: 0.12346747575979544 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.365883236604613, 'alpha': 0.760284325235785, 'colsample_bytree': 0.7279118953912874, 'subsample': 0.603445156858232, 'learning_rate': 0.010149559114291702, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 195 with value: 0.12325126988960092.
+start listen on 192.168.1.101:55589
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 233 finished with value: 0.12306412059147159 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.484893140581718, 'alpha': 0.8615626914457155, 'colsample_bytree': 0.7316265737872676, 'subsample': 0.6058992585296479, 'learning_rate': 0.010567625470101094, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:42049
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 234 finished with value: 0.12485620148913736 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.515611668801141, 'alpha': 1.161453002540405, 'colsample_bytree': 0.7275932254471843, 'subsample': 0.6028387733661569, 'learning_rate': 0.010125145582560639, 'max_depth': 20, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:39131
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 235 finished with value: 0.1247550253927776 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.255259586895143, 'alpha': 0.7532909746708546, 'colsample_bytree': 0.7641260265586552, 'subsample': 0.5780484208081365, 'learning_rate': 0.010890049543954219, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:42473
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 236 finished with value: 0.12418272079633484 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.325310654127544, 'alpha': 0.8204547213532697, 'colsample_bytree': 0.7519870376586971, 'subsample': 0.6032744496735853, 'learning_rate': 0.009323895503619214, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:42437
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 237 finished with value: 0.1255214808185419 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.86546038114772, 'alpha': 0.9039697111839665, 'colsample_bytree': 0.7259359626028022, 'subsample': 0.5636922503780275, 'learning_rate': 0.011061241422280868, 'max_depth': 20, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:46625
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 238 finished with value: 0.12387576371386821 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.1243685446478215, 'alpha': 0.7649535139529595, 'colsample_bytree': 0.7321398134780513, 'subsample': 0.6058396377915364, 'learning_rate': 0.010415431695477739, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:50859
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 239 finished with value: 0.14280813921858732 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.31151544842211, 'alpha': 1.3245207742358298, 'colsample_bytree': 0.6698157669932404, 'subsample': 0.6207999108137086, 'learning_rate': 0.009406828139292637, 'max_depth': 20, 'min_child_weight': 92, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:38191
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 240 finished with value: 0.12442251658903669 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.41857904819009, 'alpha': 0.6865426609552475, 'colsample_bytree': 0.7488694334837654, 'subsample': 0.5765319480844437, 'learning_rate': 0.008828787226870131, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54415
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 241 finished with value: 0.12381190890454775 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.978619957558083, 'alpha': 0.9563639358237961, 'colsample_bytree': 0.7382289960693063, 'subsample': 0.5847480960192004, 'learning_rate': 0.008291421778509528, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:55849
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 242 finished with value: 0.12331960723823447 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.032262269168562, 'alpha': 0.5922738611913347, 'colsample_bytree': 0.7207120005769374, 'subsample': 0.6037547414024323, 'learning_rate': 0.009882928519960145, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:34767
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 243 finished with value: 0.12312888661552616 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.618116347961968, 'alpha': 1.0680258433784757, 'colsample_bytree': 0.7234347762223459, 'subsample': 0.606392862313548, 'learning_rate': 0.011345640182574172, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:34683
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 244 finished with value: 0.12371172080458533 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.2222586510160784, 'alpha': 0.5899150346242181, 'colsample_bytree': 0.7178160828210516, 'subsample': 0.6044770971731601, 'learning_rate': 0.011420273935596359, 'max_depth': 20, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:58643
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 245 finished with value: 0.1235518079243452 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.180515066759323, 'alpha': 0.7308314568924094, 'colsample_bytree': 0.6872815168677587, 'subsample': 0.6151798578307354, 'learning_rate': 0.010189090911091638, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:60273
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 246 finished with value: 0.12406259226686552 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.291997344691465, 'alpha': 1.0573050826326427, 'colsample_bytree': 0.7005215646107882, 'subsample': 0.6152669608681133, 'learning_rate': 0.01038429033624771, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:50009
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 247 finished with value: 0.12478495556264663 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.962606349721534, 'alpha': 1.155474322212378, 'colsample_bytree': 0.6902927667637844, 'subsample': 0.6024140932087917, 'learning_rate': 0.011411657851273217, 'max_depth': 20, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54725
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 248 finished with value: 0.12441993113753035 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.333119583313252, 'alpha': 0.7397558317352444, 'colsample_bytree': 0.6820541871474703, 'subsample': 0.5866670260787904, 'learning_rate': 0.009900601986702898, 'max_depth': 20, 'min_child_weight': 15, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:52359
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 249 finished with value: 0.12334355181344124 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.830616201841886, 'alpha': 0.7804424921212078, 'colsample_bytree': 0.723128414056805, 'subsample': 0.6123906360878895, 'learning_rate': 0.010717742810117066, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:52347
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 250 finished with value: 0.12316661724064276 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.814819649917144, 'alpha': 0.9678507438110496, 'colsample_bytree': 0.71071391769621, 'subsample': 0.6173758392058561, 'learning_rate': 0.01188271640933262, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:48655
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 251 finished with value: 0.12485854879157067 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.323658534897998, 'alpha': 1.3630395623201688, 'colsample_bytree': 0.7093533886080464, 'subsample': 0.6179758445696091, 'learning_rate': 0.010942633755608796, 'max_depth': 20, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:60145
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 252 finished with value: 0.1233213958715876 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.466671108392386, 'alpha': 1.0717720453648147, 'colsample_bytree': 0.6946316200386142, 'subsample': 0.6098255480145175, 'learning_rate': 0.011504686342365728, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:47553
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 253 finished with value: 0.1239645225591994 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.931380140434245, 'alpha': 0.027387734306884962, 'colsample_bytree': 0.6932962794831625, 'subsample': 0.6212264771881374, 'learning_rate': 0.01165611788433157, 'max_depth': 20, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:53195
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 254 finished with value: 0.12586102163640828 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.712481822306986, 'alpha': 0.9896352264517805, 'colsample_bytree': 0.6771448036083183, 'subsample': 0.5774818561894177, 'learning_rate': 0.010428969847429963, 'max_depth': 20, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:42641
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 255 finished with value: 0.12329947168127997 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.415657505433411, 'alpha': 1.1422111899799174, 'colsample_bytree': 0.7163975981722969, 'subsample': 0.6082277475146384, 'learning_rate': 0.011609543420760267, 'max_depth': 20, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:56167
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 256 finished with value: 0.12356330764689237 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.391660214914491, 'alpha': 1.4807091736009073, 'colsample_bytree': 0.7129945795819959, 'subsample': 0.6116642106999611, 'learning_rate': 0.011768628765472631, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:36089
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 257 finished with value: 0.1239592782379443 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.648577073075229, 'alpha': 1.4717615052549364, 'colsample_bytree': 0.7019095523488934, 'subsample': 0.616037935844401, 'learning_rate': 0.011706553465895431, 'max_depth': 20, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:36043
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 258 finished with value: 0.16434674273474248 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.550776236225205, 'alpha': 1.5901370835056436, 'colsample_bytree': 0.7136868493073255, 'subsample': 0.6090605325385554, 'learning_rate': 0.011992715971806721, 'max_depth': 20, 'min_child_weight': 168, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:35885
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 259 finished with value: 0.12542686980635082 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.674091552009868, 'alpha': 1.3312325105091276, 'colsample_bytree': 0.6862129161203548, 'subsample': 0.6278078992614968, 'learning_rate': 0.010747915544448523, 'max_depth': 20, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:59929
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 260 finished with value: 0.12323639337395394 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.9976162635989105, 'alpha': 1.2219254514186173, 'colsample_bytree': 0.66104626349035, 'subsample': 0.606365809473991, 'learning_rate': 0.011805428957454914, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:39145
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 261 finished with value: 0.12805223886014636 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.25799633412362, 'alpha': 1.6935804060111985, 'colsample_bytree': 0.6664865430060617, 'subsample': 0.6086388531769814, 'learning_rate': 0.012531631688474827, 'max_depth': 5, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54063
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 262 finished with value: 0.12480817091195402 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.794175295339782, 'alpha': 1.1729692510377114, 'colsample_bytree': 0.6576033600633562, 'subsample': 0.6259016099699504, 'learning_rate': 0.011414655590515035, 'max_depth': 20, 'min_child_weight': 19, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:38813
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 263 finished with value: 0.12361084761280362 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.798117046632759, 'alpha': 1.16852067836762, 'colsample_bytree': 0.696202324156637, 'subsample': 0.6137572608881329, 'learning_rate': 0.010801319176459918, 'max_depth': 20, 'min_child_weight': 10, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:33613
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 264 finished with value: 0.13856038707034635 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.964250129173676, 'alpha': 0.8705119597153553, 'colsample_bytree': 0.4803131842384873, 'subsample': 0.600285315493563, 'learning_rate': 0.010158294933652688, 'max_depth': 3, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54109
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 265 finished with value: 0.1238779494809615 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.44694880821412, 'alpha': 1.0441496002864392, 'colsample_bytree': 0.6856034972473373, 'subsample': 0.6232617115207846, 'learning_rate': 0.011913443823330233, 'max_depth': 17, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:45015
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 266 finished with value: 0.12573606890867986 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.212429771240608, 'alpha': 0.8367416655085061, 'colsample_bytree': 0.6731409008949398, 'subsample': 0.6055126515612925, 'learning_rate': 0.010120633657973405, 'max_depth': 20, 'min_child_weight': 23, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:47705
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 267 finished with value: 0.1951707989094282 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.192014680186485, 'alpha': 1.3752727201282686, 'colsample_bytree': 0.7063022309595289, 'subsample': 0.5955315898030122, 'learning_rate': 0.012294239942094975, 'max_depth': 11, 'min_child_weight': 278, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54365
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 268 finished with value: 0.12390721052943751 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.895186817652653, 'alpha': 0.8214431159816873, 'colsample_bytree': 0.7117122222003045, 'subsample': 0.6263100980433147, 'learning_rate': 0.011020740544865602, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:58345
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 269 finished with value: 0.12394224100392631 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.928589220869828, 'alpha': 1.1285108440002625, 'colsample_bytree': 0.6968622515284597, 'subsample': 0.6124136923617299, 'learning_rate': 0.010092434826807202, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:39835
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 270 finished with value: 0.12347747070367583 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.368751302482849, 'alpha': 0.9324788224020574, 'colsample_bytree': 0.7199540011690694, 'subsample': 0.5968703136048794, 'learning_rate': 0.01291514279902739, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:38185
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 271 finished with value: 0.12419342153214372 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.809549984234312, 'alpha': 0.7671565819046573, 'colsample_bytree': 0.7252591502258807, 'subsample': 0.5892451633722307, 'learning_rate': 0.013105702171775223, 'max_depth': 20, 'min_child_weight': 18, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:44509
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 272 finished with value: 0.12616101723947798 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.302673871626986, 'alpha': 0.9536937438195331, 'colsample_bytree': 0.6776145236553555, 'subsample': 0.6001603966842483, 'learning_rate': 0.009865618825025752, 'max_depth': 20, 'min_child_weight': 26, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:50957
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 273 finished with value: 0.12329950106160413 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.498477613979556, 'alpha': 0.8000538027894085, 'colsample_bytree': 0.7005907433781294, 'subsample': 0.5878458277904804, 'learning_rate': 0.011004225993776267, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:50673
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 274 finished with value: 0.12395589653909485 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.812655962087566, 'alpha': 1.0222956297346197, 'colsample_bytree': 0.7011108545017684, 'subsample': 0.5535673625263723, 'learning_rate': 0.013334446900231304, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:39207
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 275 finished with value: 0.12478800657475964 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.610868151454016, 'alpha': 0.8749402983914277, 'colsample_bytree': 0.7197693815977785, 'subsample': 0.5846713810474827, 'learning_rate': 0.011030408601624376, 'max_depth': 7, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:53031
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 276 finished with value: 0.12439919623275146 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.490813626697973, 'alpha': 1.1986562619317493, 'colsample_bytree': 0.7226585693959587, 'subsample': 0.5651381705567279, 'learning_rate': 0.012293261612278103, 'max_depth': 20, 'min_child_weight': 14, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:51839
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 277 finished with value: 0.12439198206984348 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.082037218934014, 'alpha': 0.5939662027700432, 'colsample_bytree': 0.7037173763454455, 'subsample': 0.5962977611880648, 'learning_rate': 0.007453418369862698, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:40143
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 278 finished with value: 0.1483169099104526 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.434914300752437, 'alpha': 0.744222980183201, 'colsample_bytree': 0.657580306029966, 'subsample': 0.5826586472707468, 'learning_rate': 0.009490998764076365, 'max_depth': 20, 'min_child_weight': 112, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:35097
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 279 finished with value: 0.12417313976001322 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.941873713554905, 'alpha': 0.9226615746627435, 'colsample_bytree': 0.7590927299096508, 'subsample': 0.5718134203141664, 'learning_rate': 0.011305922139712469, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:60899
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 280 finished with value: 0.12462728281956524 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.72138779220351, 'alpha': 0.5563227075376973, 'colsample_bytree': 0.7318342839600368, 'subsample': 0.6001758189426429, 'learning_rate': 0.013139026175774698, 'max_depth': 20, 'min_child_weight': 21, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54485
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 281 finished with value: 0.18603995338388943 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.0927621234024985, 'alpha': 0.6833627957756149, 'colsample_bytree': 0.7162715989293496, 'subsample': 0.6298413145305067, 'learning_rate': 0.001590607151495834, 'max_depth': 20, 'min_child_weight': 152, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:43059
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 282 finished with value: 0.12398129172894842 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.501225623179663, 'alpha': 0.825274790972233, 'colsample_bytree': 0.7452244308140786, 'subsample': 0.5865288310060619, 'learning_rate': 0.010671069049672908, 'max_depth': 20, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:40463
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 283 finished with value: 0.12388359755391423 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.097729660156197, 'alpha': 0.0025538405295923777, 'colsample_bytree': 0.6947815435153156, 'subsample': 0.6055911198065682, 'learning_rate': 0.009401737620967977, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:35707
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 284 finished with value: 0.12417415948648071 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.178704202684353, 'alpha': 1.1208722021605453, 'colsample_bytree': 0.6724407442571372, 'subsample': 0.5896112492421244, 'learning_rate': 0.011736960121141738, 'max_depth': 20, 'min_child_weight': 17, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:60477
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 285 finished with value: 0.17237455546804287 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.985290346191906, 'alpha': 0.9257804055731198, 'colsample_bytree': 0.703945684623464, 'subsample': 0.6342299827697313, 'learning_rate': 0.009860767481860242, 'max_depth': 20, 'min_child_weight': 205, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:48053
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 286 finished with value: 0.1277986713370101 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.078762260780197, 'alpha': 0.6790897561815642, 'colsample_bytree': 0.41775606331236614, 'subsample': 0.5995324294914413, 'learning_rate': 0.008098012001937206, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:49243
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 287 finished with value: 0.12787631911558486 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.705616397369436, 'alpha': 1.2754197885633587, 'colsample_bytree': 0.7272147636439541, 'subsample': 0.6178430699202158, 'learning_rate': 0.010807295097885066, 'max_depth': 5, 'min_child_weight': 9, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:41973
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 288 finished with value: 0.1289370033141028 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.212444406945108, 'alpha': 0.570166772285934, 'colsample_bytree': 0.6895684635177891, 'subsample': 0.5683900291371681, 'learning_rate': 0.007073991059370996, 'max_depth': 20, 'min_child_weight': 26, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:47405
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 289 finished with value: 0.12379490849180537 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.976892032816092, 'alpha': 0.7595215772630872, 'colsample_bytree': 0.713624279011275, 'subsample': 0.605754220802626, 'learning_rate': 0.012252648644605521, 'max_depth': 20, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:48855
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 290 finished with value: 0.13670555813018054 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 4.686669932164861, 'alpha': 1.0371321715946937, 'colsample_bytree': 0.7393178385178197, 'subsample': 0.5883668274769666, 'learning_rate': 0.009369480036177921, 'max_depth': 3, 'min_child_weight': 17, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:47971
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 291 finished with value: 0.1232884816533004 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.563031536105264, 'alpha': 0.8364614599763465, 'colsample_bytree': 0.7176142792070314, 'subsample': 0.5800049552686714, 'learning_rate': 0.01047583716972061, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:46747
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 292 finished with value: 0.12446940632301902 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.242410629867612, 'alpha': 0.9101316416064061, 'colsample_bytree': 0.7500169307984558, 'subsample': 0.5749010972223353, 'learning_rate': 0.010815083682486924, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:42161
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 293 finished with value: 0.12343974561679828 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.416393716053603, 'alpha': 1.1271200646382553, 'colsample_bytree': 0.7272911673027298, 'subsample': 0.6202907319460372, 'learning_rate': 0.013581117876669636, 'max_depth': 17, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:40445
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 294 finished with value: 0.12438000914635712 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.637221027251982, 'alpha': 1.9265252525739671, 'colsample_bytree': 0.7721320476898056, 'subsample': 0.6226073812832462, 'learning_rate': 0.013416378323030083, 'max_depth': 17, 'min_child_weight': 6, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:32849
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 295 finished with value: 0.12357784013938779 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.593042085200214, 'alpha': 1.3548230056228832, 'colsample_bytree': 0.7300181932487613, 'subsample': 0.6347795019708727, 'learning_rate': 0.012148397924784145, 'max_depth': 17, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:58437
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 296 finished with value: 0.14964525689451308 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.914811695291133, 'alpha': 1.0983521180129208, 'colsample_bytree': 0.7590432970486246, 'subsample': 0.6120062758760532, 'learning_rate': 0.013537720899441937, 'max_depth': 20, 'min_child_weight': 143, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:44385
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 297 finished with value: 0.1398047382450128 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.335517065731836, 'alpha': 0.8477463778712638, 'colsample_bytree': 0.7231550309222935, 'subsample': 0.6210898909923949, 'learning_rate': 0.011620041006797253, 'max_depth': 17, 'min_child_weight': 78, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:47147
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 298 finished with value: 0.12457164275881033 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.997276656720132, 'alpha': 1.7068221741518947, 'colsample_bytree': 0.7332586275375094, 'subsample': 0.6010114742500046, 'learning_rate': 0.012645112346346812, 'max_depth': 17, 'min_child_weight': 22, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:50121
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 299 finished with value: 0.12351602711140938 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.191400526960603, 'alpha': 1.191366529990924, 'colsample_bytree': 0.6920625248389598, 'subsample': 0.6279019758207836, 'learning_rate': 0.010425759257447192, 'max_depth': 11, 'min_child_weight': 7, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:51439
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 300 finished with value: 0.12486654334640909 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 7.537661336129723, 'alpha': 1.0043952664843596, 'colsample_bytree': 0.7455860983552994, 'subsample': 0.5281348003622247, 'learning_rate': 0.01132686952793032, 'max_depth': 20, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:51185
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 301 finished with value: 0.12330678456675187 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 6.314025518728999, 'alpha': 0.8052918621024323, 'colsample_bytree': 0.715867720414727, 'subsample': 0.610695342249154, 'learning_rate': 0.013280908607380586, 'max_depth': 20, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:47509
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 302 finished with value: 0.12571021208252725 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.722497032348362, 'alpha': 0.7797511241931453, 'colsample_bytree': 0.6720168751782309, 'subsample': 0.6104377470578117, 'learning_rate': 0.013683935876809735, 'max_depth': 7, 'min_child_weight': 20, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:37967
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 303 finished with value: 0.12326272900602711 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.474057948843074, 'alpha': 1.273655090597346, 'colsample_bytree': 0.7176635630826805, 'subsample': 0.5983994614231513, 'learning_rate': 0.012754357308913965, 'max_depth': 20, 'min_child_weight': 12, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:38683
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 304 finished with value: 0.12316279195631556 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.452231488425321, 'alpha': 1.5229185363444162, 'colsample_bytree': 0.721837391954289, 'subsample': 0.6005823318170995, 'learning_rate': 0.014072849272389311, 'max_depth': 20, 'min_child_weight': 13, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:42163
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 305 finished with value: 0.12633166560930903 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 9.959999384171098, 'alpha': 1.7154878994513119, 'colsample_bytree': 0.7247199839216476, 'subsample': 0.6072857511735393, 'learning_rate': 0.01465282215231323, 'max_depth': 20, 'min_child_weight': 30, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:48791
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 306 finished with value: 0.1257783602705949 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.404895021112718, 'alpha': 2.3224320702206893, 'colsample_bytree': 0.7198148314755651, 'subsample': 0.6166006671573785, 'learning_rate': 0.01350008137382805, 'max_depth': 20, 'min_child_weight': 24, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:54673
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 307 finished with value: 0.12403124870043727 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.327087067788524, 'alpha': 1.1417170555600065, 'colsample_bytree': 0.737154720303763, 'subsample': 0.6004190999810508, 'learning_rate': 0.012742083037035138, 'max_depth': 17, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:36193
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 308 finished with value: 0.12386601619992725 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 8.50226539037821, 'alpha': 1.4787832056246786, 'colsample_bytree': 0.7160883367836742, 'subsample': 0.6147926149814422, 'learning_rate': 0.01380095474004227, 'max_depth': 20, 'min_child_weight': 1, 'eval_metric': 'rmse'}. Best is trial 233 with value: 0.12306412059147159.
+start listen on 192.168.1.101:33817
+@tracker All of 1 nodes getting started

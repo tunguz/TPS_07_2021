@@ -1,0 +1,22 @@
+A new study created in RDB with name: jul_2021_test_5_0
+Start optimization.
+start listen on 192.168.1.101:37701
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 0.18426861874001088 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.009353153724431825, 'alpha': 0.6997802518786528, 'colsample_bytree': 0.4148662014857419, 'subsample': 0.6123084098827469, 'learning_rate': 0.0037739326613599913, 'max_depth': 9, 'min_child_weight': 171, 'eval_metric': 'rmse'}. Best is trial 0 with value: 0.18426861874001088.
+start listen on 192.168.1.101:59037
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 0.1250053011814303 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.9727813100913572, 'alpha': 0.04128328417750776, 'colsample_bytree': 0.7317394366739414, 'subsample': 0.7719809297867932, 'learning_rate': 0.018409012199859496, 'max_depth': 20, 'min_child_weight': 8, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1250053011814303.
+start listen on 192.168.1.101:56641
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 2 finished with value: 0.14845262558023228 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.06964820740504296, 'alpha': 9.123979012526151, 'colsample_bytree': 0.908318225749223, 'subsample': 0.45304577817657476, 'learning_rate': 0.03742730188192564, 'max_depth': 7, 'min_child_weight': 122, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1250053011814303.
+start listen on 192.168.1.101:34799
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 3 finished with value: 0.21363240799592276 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.94307393593102, 'alpha': 3.3989970477414158, 'colsample_bytree': 0.5897270068241476, 'subsample': 0.4762055131190526, 'learning_rate': 0.005318393130302329, 'max_depth': 11, 'min_child_weight': 255, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1250053011814303.
+start listen on 192.168.1.101:55885
+@tracker All of 1 nodes getting started
+@tracker All nodes finishes job
+Trial 4 finished with value: 0.1268828657794292 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.003473315188942998, 'alpha': 0.012671508786264647, 'colsample_bytree': 0.7142966192438012, 'subsample': 0.6814014443410605, 'learning_rate': 0.021453974991118497, 'max_depth': 17, 'min_child_weight': 16, 'eval_metric': 'rmse'}. Best is trial 1 with value: 0.1250053011814303.
